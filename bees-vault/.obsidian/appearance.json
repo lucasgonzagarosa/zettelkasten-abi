@@ -1,0 +1,11 @@
+{
+  "accentColor": "#3a593b",
+  "interfaceFontFamily": "Ubuntu Nerd Font",
+  "cssTheme": "",
+  "textFontFamily": "DaddyTimeMono Nerd Font Mono",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "custom_editor"
+  ]
+}

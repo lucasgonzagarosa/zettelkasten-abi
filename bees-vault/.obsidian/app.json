@@ -1,0 +1,15 @@
+{
+  "newFileLocation": "root",
+  "newFileFolderPath": "Zettelkasten",
+  "attachmentFolderPath": "Assets",
+  "tabSize": 2,
+  "livePreview": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "showLineNumber": true,
+  "defaultViewMode": "source",
+  "readableLineLength": false,
+  "strictLineBreaks": true
+}
